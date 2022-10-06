@@ -1,5 +1,5 @@
-exercise logo 
-![Burger](../img/logo.jpg)
+exercise logo
+![Logo](../img/logo.jpg)
 
 Bun
 Tomato
@@ -9,3 +9,5 @@ Cuttet
 Bun
 ![Burger](../img/burger.jpg)
 
+Other sandwiches
+![Menu](../img/menu.png)
